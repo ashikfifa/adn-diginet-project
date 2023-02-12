@@ -1,4 +1,4 @@
-import bannerImg from "./img/donte-img.jpg"
+import bannerImg from "./img/donateImg.jpg"
 const Banner = () => {
   return (
     <div className=" bg-paste">
