@@ -28,7 +28,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-span-2 md:col-span-1 gap-5 ">
-              <div className="pl-16 md:pl-0 pt-9">
+              <div className="pl-0 pt-9">
                 <ul>
                   <li className="text-lg">
                     <b>More</b>
